@@ -1,7 +1,7 @@
 # Sales_Analysis
 In this analysis project, we leverage the analytical power of Pandas and Matplotlib to dive deep into a year's worth of sales data. This extensive dataset comprises a wide array of transactional records from our electronics store, encompassing crucial details like product categories, pricing, customer locations, and more.
 
-Our mission is to extract actionable insights, address key business inquiries, and unveil the underlying narrative within this substantial sales dataset. By doing so, we aim to empower informed decision-making, optimize business strategies, and unlock the full potential of our sales data for growth and success. Check the notebook for a detailed explanation.
+Our mission is to extract actionable insights, address key business inquiries, and unveil the underlying narrative within this substantial sales dataset. By doing so, we aim to empower informed decision-making, optimize business strategies, and unlock the full potential of our sales data for growth and success. Check the [notebook](https://github.com/vkquests/Sales_Analysis/blob/main/sales_analysis.ipynb) for a detailed explanation.
 
 We commence our data analysis journey with a robust data cleaning phase, where we address crucial tasks such as:
 * Eliminating NaN values from our DataFrame.
